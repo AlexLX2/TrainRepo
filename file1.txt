@@ -1,0 +1,6 @@
+
+  getVariationDescriptionByCode() {
+    return this.http.get('', {
+      
+    })
+  }

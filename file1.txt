@@ -1,7 +1,2 @@
 Hello world!
 
-  getVariationDescriptionByCode() {
-    return this.http.get('', {
-      
-    })
-  } 
